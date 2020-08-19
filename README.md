@@ -22,10 +22,11 @@ Como falei lá na live, estes são os projetos iniciais que acho mais legais:
 * Obs: Vou fazer um tutorial de cada um e colocar no meu canal do youtube com o tempo, sempre que fizer isso vou avisar lá no Insta 🥰
 Aproveitando, em quais locais vocês gostariam que eu colocasse os tutoriais:
 
-[![](https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/GitHub)](https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/GitHub/vote)
-[![](https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Youtube)](https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Youtube/vote)
-[![](https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/IGTV)](https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/IGTV/vote)
-[![](https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Site%20da%20Cla)](https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Site%20da%20Cla/vote)
+<p><a href="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/GitHub/vote"><img src="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/GitHub" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Youtube/vote"><img src="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Youtube" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/IGTV/vote"><img src="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/IGTV" alt=""></a>
+<a href="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Site%20da%20Cla/vote"><img src="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Site%20da%20Cla" alt=""></a></p>
+
 
 
 ## Sites Legals:
