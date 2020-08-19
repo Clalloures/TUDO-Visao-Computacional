@@ -20,7 +20,7 @@ Como falei lá na live, estes são os projetos iniciais que acho mais legais:
 
 
 * Obs: Vou fazer um tutorial de cada um e colocar no meu canal do youtube com o tempo, sempre que fizer isso vou avisar lá no Insta 🥰
-Aproveitando, em quais locais vocês gostariam que eu colocasse os tutoriais:
+Aproveitando, em quais locais vocês gostariam que eu colocasse os tutoriais (tentei fazer essa enquete aqui mas quase certeza de que não vai funcionar direito kkkk a gente tenta):
 
 <p><a href="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/GitHub/vote"><img src="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/GitHub" alt=""></a>
 <a href="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Youtube/vote"><img src="https://api.gh-polls.com/poll/01EG46427MW6P82CHB15W14NJN/Youtube" alt=""></a>
