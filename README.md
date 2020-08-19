@@ -10,16 +10,18 @@ Esta lista surgiu para a Live com a [@maribneiva](https://www.instagram.com/mari
 
 Aqui vou colocar alguns sites e materiais que podems ser encontrados gratuitamente sobre visão computacional na internet. A parte principal de visão computacional é treinar, se sinta livre para escolher um destes materiais e se divertir com os tutoriais. Escolha aquela linguagem que se sinta mais confortável e vamos dominar o mundo da visão computacional !
 
-Sites Legals:
+
+
+## Sites Legals:
 
 - https://www.learnopencv.com/about/  (tem muita coisa boa aqui)
 - https://www.pyimagesearch.com/ (o site que mais utilizei até hoje)
 
 
-Kaggle:
+## Kaggle:
 - https://www.kaggle.com/search?q=computer+vision+in%3Adatasets (dodos os datasets para vocês brincarem)
 
-Youtube:
+## Youtube:
 
 ------------ Teoria  ---------------------------
 
@@ -37,7 +39,7 @@ Youtube:
 
 
 
-Livros Legals:
+## Livros Legals:
 http://homepages.inf.ed.ac.uk/rbf/CVonline/books.htm
 https://www.freetechbooks.com/computer-vision-f69.html
 
